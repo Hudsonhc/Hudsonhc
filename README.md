@@ -3,8 +3,7 @@
 
 
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
-- 💻 Estudando C#
-- 🇺🇸 Estudando Inglês
+
 
 <div align="center">
   <a href="https://github.com/Hudsonhc">
