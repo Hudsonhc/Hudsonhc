@@ -4,13 +4,6 @@
 
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
 
-
-<div align="center">
-  <a href="https://github.com/Hudsonhc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hudsonhc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-</div>
-
   
    ##
  
